@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>image/open.png</file>
+        <file>image/play.png</file>
+        <file>image/run.png</file>
+        <file>image/stop.png</file>
+        <file>image/volume.png</file>
+        <file>image/former.png</file>
+        <file>image/next.png</file>
+        <file>image/list.png</file>
+        <file>image/flie.png</file>
+        <file>image/fullscreen.png</file>
+    </qresource>
+</RCC>
